@@ -1,6 +1,6 @@
 # PyCraftML
 ## Requirements:  
 Python Version:  
-**3.10.0 or Newer**  
+&emsp; **3.10.0 or Newer**  
 Module:  
-**Ursina ʕ •ᴥ•ʔゝ**  
+&emsp;**Ursina ʕ •ᴥ•ʔゝ**  
