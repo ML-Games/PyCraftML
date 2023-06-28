@@ -2,7 +2,7 @@
 ## Requirements:  
 Python Version:  
 &emsp; **3.10.0 or Newer**  
-<br/><br/>  
+<br/>
 Module:  
 &emsp;**Ursina ʕ •ᴥ•ʔゝ**  
 Install with Pip:  
