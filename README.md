@@ -7,4 +7,10 @@ Module:
 &emsp;**Ursina ʕ •ᴥ•ʔゝ**  
 <br/>
 Install with Pip:  
-&emsp;``` pip install ursina ```  
+&emsp;
+```  
+pip install ursina  
+```  
+## Run Instructions  
+Unzip zipped file ```pycraft.zip```.  
+Open and Run Python file ```pycraft.py```.  
