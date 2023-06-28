@@ -7,7 +7,6 @@ Module:
 &emsp;**Ursina ʕ •ᴥ•ʔゝ**  
 <br/>
 Install with Pip:  
-&emsp;
 ```  
 pip install ursina  
 ```  
