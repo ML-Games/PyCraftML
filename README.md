@@ -32,4 +32,4 @@ Unzip zipped file ```pycraft.zip```.
 |Line|Variable (ø)|Description|  
 |77|```for z in range(ø)```|Changes the number of tiles spawned at the beginning horizontally.|  
 |78|```for x in range(ø)```|Changes the number of tiles spawned at the beginning vertically.|  
-Note: Changing these variables may enhance or impair performance / FPS.  
+
