@@ -30,6 +30,6 @@ Unzip zipped file ```pycraft.zip```.
 |Alt + F4|Close Game|  
 ## Adjustible Variables  
 Note: Changing these variables may enhance or impair performance / FPS.  
-|Line|Variable (ʯØø)|Description|  
-|77|```for z in range()```|Changes the number of tiles spawned at the beginning horizontally.  
-|78|```for x in range()```|Changes the number of tiles spawned at the beginning vertically.  
+|Line|Variable (ø)|Description|  
+|77|```for z in range(ø)```|Changes the number of tiles spawned at the beginning horizontally.|  
+|78|```for x in range(ø)```|Changes the number of tiles spawned at the beginning vertically.|  
